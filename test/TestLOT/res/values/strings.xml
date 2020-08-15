@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">物联调试器</string>
+    <string name="hello_world">测试</string>
+    <string name="action_settings">设置</string>
+    <string name="action_quit">退出</string>
+    <string name="title_activity_setting">参数配置</string>
+    <string name="action_chatview">消息</string>
+    <string name="title_activity_login">登录</string>
+    <string name="title_activity_chat_view">接发消息</string>
+    <string name="title_activity_chat_list">通讯设备</string>
+
+</resources>
